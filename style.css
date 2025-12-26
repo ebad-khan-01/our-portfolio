@@ -605,7 +605,7 @@ body {
 }
 
 .content-section p {
-    color: var(--bg-white);
+    color: var(--text-lighter);
     margin-bottom: 1rem;
     line-height: 1.8;
 }
